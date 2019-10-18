@@ -1,4 +1,4 @@
-/*	Jake Vargas
+/*	
 	  Lab 1
        Thursday 9:15	*/
 
