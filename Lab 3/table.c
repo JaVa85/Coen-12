@@ -1,5 +1,4 @@
-/* Jake Vargas
- * COEN 12 Project 3
+/* COEN 12 Project 3
  * Professor Atkinson
  * Lab Section: Thursday 9:15
 
